@@ -1,14 +1,27 @@
+## Learning Project - SQL Data Warehouse
 
-# sql_data_warehouse_project
-Building a modern data warehouse with SQL Server, including ETL processes, data modelling, and analytics.
+**Course:** SQL Full Course for Beginners (30 Hours) by Data With Baraa  
+**Original Project:** [github.com/DataWithBaraa/sql-data-warehouse-project]
 
-You can find the original README.md here:
+This repository contains my work following the above course. I completed this project to learn data warehousing concepts and SQL Server.
 
-https://github.com/DataWithBaraa/sql-data-warehouse-project/blob/main/README.md
+### Skills Practiced
 
-## 🌟 About Me
-Hello! I am a Turkish woman living in Finland. I am a chemical engineer and currently studying to become a data engineer.
+- SQL Server database design
+- ETL process implementation
+- Star schema data modeling
+- Dimensional modeling with fact and dimension tables
+- T-SQL query writing and optimization
+- Data analytics workflows
 
-I created this project by following the instructions in “SQL Full Course for Beginners (30 Hours) – From Zero to Hero”, created by Baraa Khatib Salkini, also known as Data With Baraa. He is an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging. His courses are high-quality and very well-presented — I highly recommend them!
+### About Me
 
-https://github.com/DataWithBaraa
+Chemical engineer transitioning to data engineering. Building practical skills through structured learning and hands-on practice.
+
+**My certifications:** Python (U Michigan) | Data Science (IBM) | Google AI Essentials  
+**Currently learning:** Advanced Python, VS Code, ETL architectures  
+**Connect:** [LinkedIn](https://linkedin.com/in/isil-gulmus)
+
+### Acknowledgment
+
+Huge thanks to Baraa Khatib Salkini (Data With Baraa) for creating such a comprehensive and well-structured course. Highly recommended for anyone learning SQL and data warehousing!
